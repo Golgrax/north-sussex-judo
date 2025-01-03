@@ -54,7 +54,7 @@ This SQL file contains the schema for the North Sussex Judo database. It include
     -   Inserts an initial admin user into the `Users` table and 3 different training plan into the `TrainingPlans` table.
 
 ## System Analysis with Vocational Scenario
-Based on the vocational scenario and the code you provided, here is an analysis of the system:
+Based on the vocational scenario, here is an analysis of the system:
 
 ### User Management
 - The system has a basic user authentication system, ensuring that only authorised users can interact with the system. The system uses a username and password and hashes password to ensure that security of user's credentials.
